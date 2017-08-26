@@ -21,8 +21,12 @@
 }
 
 .container {
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-  clear: both;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.panel {
+    text-align: center;
 }
